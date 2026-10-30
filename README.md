@@ -72,12 +72,12 @@ Designed for use by **individuals, therapists, counselors, coaches, and mental h
 ### Installation
 
 ```bash
-git clone https://github.com/OfTh3Sea/emotion-wheel.git
+git clone https://github.com/OfTh3Sea/EmotionWheelAllAges.git
 cd emotion-wheel
-open therapy-suite.html
+open emotion-wheel.html
 ```
 
-Or download `therapy-suite.html` and open it directly in any browser.
+Or download `emotion-wheel.html` and open it directly in any browser.
 
 ---
 
@@ -96,7 +96,7 @@ Or download `therapy-suite.html` and open it directly in any browser.
 ## 🗂️ File Structure
 
 ```
-therapy-suite.html    ← Complete application (single file, no dependencies)
+emotion-wheel.html    ← Complete application (single file, no dependencies)
 README.md             ← This file
 ```
 
